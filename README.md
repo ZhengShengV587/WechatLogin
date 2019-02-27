@@ -1,1 +1,3 @@
 # WechatLogin
+在viewcontroller里需要填入自己app的appID和appSecret
+
