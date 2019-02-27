@@ -1,5 +1,5 @@
 # WechatLogin
-在viewcontroller里需要填入自己app的appID和appSecret
-在Url schemes处也要改成自己app的appID
+在viewcontroller里需要填入自己app的appID和appSecret，
+在Url schemes处也要改成自己app的appID，
 当然bundle identifier也要和注册时一致
 
